@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HungKSeven
-- game developer / unity developer
+- I am a software developer. I have more than 2 years of work experience programming and work with both 2D and 3D projects using Unity.
 - Contact me hungtran.kseven@gmail.com
-- My first 3d game published on google play https://play.google.com/store/apps/details?id=com.KSevensStudio.Rings
 
 
 
